@@ -28,11 +28,11 @@ Global Electronics faces challenges in understanding customer behavior, managing
 # Datasets Used
 The project utilizes the following datasets:
 
-**Customer Dataset**: Includes customer demographics and purchase history.
-**Sales Dataset**: Contains transaction-level data on products sold, quantities, and sales values.
-**Product Dataset**: Details about product categories, subcategories, and pricing.
-**Store Dataset**: Information about store locations, sizes, and sales performance.
-**Exchange Rates Dataset**: Historical exchange rates for international sales.
+-**Customer Dataset**: Includes customer demographics and purchase history.
+-**Sales Dataset**: Contains transaction-level data on products sold, quantities, and sales values.
+-**Product Dataset**: Details about product categories, subcategories, and pricing.
+-**Store Dataset**: Information about store locations, sizes, and sales performance.
+-**Exchange Rates Dataset**: Historical exchange rates for international sales.
 
 # Tools and Technologies
 **Data Analysis**: Python (pandas, numpy, matplotlib, seaborn)
