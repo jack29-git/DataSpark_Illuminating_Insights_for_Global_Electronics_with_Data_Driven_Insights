@@ -103,14 +103,18 @@ By leveraging the recommended strategies, Global Electronics can drive customer 
 
 ## Power BI Dashboard Screenshots
 
+
 Here’s a screenshot of **the Power BI dashboard for customer analysis**:
 ![customer_analysis](https://github.com/user-attachments/assets/e14a684f-6aef-4884-9bc0-c6f628e3dc1f)
+
 
 Here’s a screenshot of **the Power BI dashboard for sales analysis**:
 ![sales_analysis](https://github.com/user-attachments/assets/1c62f06f-7ebc-43db-b8fc-33b014c07180)
 
+
 Here’s a screenshot of **the Power BI dashboard for product analysis**:
 ![product_analysis](https://github.com/user-attachments/assets/a524421c-b377-4a70-a5af-4ffe58d48f01)
+
 
 Here’s a screenshot of **the Power BI dashboard for store analysis**:
 ![store_analysis](https://github.com/user-attachments/assets/66ce4fc2-95a2-4ae6-84a3-0c87cd9ab68a)
