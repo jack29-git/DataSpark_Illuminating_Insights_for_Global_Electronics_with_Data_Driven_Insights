@@ -1,1 +1,1 @@
-# DataSpark:Illuminating_Insights_for_Global_Electronics_with_Data-Driven_Insights
+# DataSpark:Illuminating Insights for Global Electronics with Data-Driven Insights
