@@ -103,4 +103,4 @@ By leveraging the recommended strategies, Global Electronics can drive customer 
 
 ## Power BI Dashboard Screenshots
 Here’s a screenshot of the Power BI dashboard for customer analysis:
-![Alt Text](C:/Users/jagadesh/Documents/Python Scripts/dataspark eda project/images/customer_analysis)
+![customer_analysis](https://github.com/user-attachments/assets/e14a684f-6aef-4884-9bc0-c6f628e3dc1f)
