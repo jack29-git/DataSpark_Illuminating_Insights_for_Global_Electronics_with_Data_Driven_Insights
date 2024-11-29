@@ -100,3 +100,7 @@ The project utilizes the following datasets:
 
 ## Conclusion
 By leveraging the recommended strategies, Global Electronics can drive customer satisfaction, boost sales, and sustain long-term growth in a competitive retail landscape. This project underscores the value of data-driven decision-making to address business challenges and capitalize on growth opportunities.
+
+## Power BI Dashboard Screenshots
+Here’s a screenshot of the Power BI dashboard for customer analysis:
+![Alt Text](C:/Users/jagadesh/Documents/Python Scripts/dataspark eda project/images/customer_analysis)
