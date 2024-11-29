@@ -35,16 +35,16 @@ The project utilizes the following datasets:
 - **Exchange Rates Dataset**: Historical exchange rates for international sales.
 
 # Tools and Technologies
-**Data Analysis**: Python (pandas, numpy, matplotlib, seaborn)
-**Database Management**: SQL (MySQL)
-**Data Visualization**: Power BI 
-**Project Presentation**: PowerPoint (PPT)
+- **Data Analysis**: Python (pandas, numpy, matplotlib, seaborn)
+- **Database Management**: SQL (MySQL)
+- **Data Visualization**: Power BI 
+- **Project Presentation**: PowerPoint (PPT)
 
 # Data Analysis Process
-**Data Cleaning**: Handled missing values, corrected inconsistent formats, and standardized datasets.
-**Data Transformation**: Merged datasets and calculated measures like profit, profit margin, and average sales.
-**Exploratory Data Analysis (EDA)**: Analyzed trends, distributions, and correlations using Python and SQL.
-**Data Visualization**: Created interactive dashboards in Power BI to summarize key insights.
+- **Data Cleaning**: Handled missing values, corrected inconsistent formats, and standardized datasets.
+- **Data Transformation**: Merged datasets and calculated measures like profit, profit margin, and average sales.
+- **Exploratory Data Analysis (EDA)**: Analyzed trends, distributions, and correlations using Python and SQL.
+- **Data Visualization**: Created interactive dashboards in Power BI to summarize key insights.
 
 ## Key Insights and Actionable Recommendations
 
