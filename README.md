@@ -86,7 +86,6 @@ The project utilizes the following datasets:
 - **dataspark_dashboard.pbix**: Power BI dashboard file with interactive visuals.
 - **dataspark_global_electronics.ipynb**: Jupyter Notebook for EDA and data analysis.
 - **sql_queries_for_analytics.sql**: SQL queries used for data processing and analysis.
-- **rawdataset**:A file of raw data sets
 
 ## How to Use the Repository
 1. **View the Dashboard**:
